@@ -3,7 +3,7 @@
 
 🐧 I'm a Frontend web developer
 
-- 🔭 I’m currently learning about Backend and Next.js
+- 🔭 I’m currently learning about Videogame development with Unity
 - 🎯 I am looking to collaborate on projects with innovative ideas and effective solutions.
 - 📌 You can contact me here <a href="mailto:karolgalindo2018@gmail.com?subject=Servicios%20requeridos&body=Hola%20Karol!%20%F0%9F%91%8B">Mail</a> and [LinkedIn](https://www.linkedin.com/in/karol-galindo/)
 - 👾 I'm a music and videogames lover
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/c4b5f22d-0afd-4e04-a4e3-2f0af24b5791.png"></code>
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/7a05a892-5467-447d-b006-99dc25b997ac.png"></code>
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/c3fa9215-6bfa-458d-888e-d72ec2f9347a.png"></code>
+<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/22a9561a-1d28-4b8b-90c2-e7314adc3e09.png"></code>
+<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/523da9cc-1572-43b0-be6a-5af1210fa45c.png"></code>
 </p>
 
 
