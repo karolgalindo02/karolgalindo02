@@ -1,7 +1,7 @@
 ## Hi there, I'm Karol 👋
 <img align="right" alt="penguin-code.gif" width=180 src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/101655db-9971-4def-9f3d-1c9012be07d4.gif">
 
-🐧 I'm a Frontend web developer
+🐧 I'm a Junior Unity Developer & Frontend Web Developer
 
 - 🔭 I’m currently learning about Videogame development with Unity
 - 🎯 I am looking to collaborate on projects with innovative ideas and effective solutions.
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ## 💻 Languages and Tools
 <p align="center">
+<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/22a9561a-1d28-4b8b-90c2-e7314adc3e09.png"></code>
+<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/523da9cc-1572-43b0-be6a-5af1210fa45c.png"></code>
 <code><img height=50 src="https://user-images.githubusercontent.com/86115727/215505925-ad47386c-4f17-48a3-9ddb-c6d2d0326406.png"/></code>
 <code><img height=50 src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/c6d3d18e-42ff-4a09-b419-a7dfe1b7542c.png"/></code>
 <code><img height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
@@ -36,8 +38,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/c4b5f22d-0afd-4e04-a4e3-2f0af24b5791.png"></code>
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/7a05a892-5467-447d-b006-99dc25b997ac.png"></code>
 <code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/c3fa9215-6bfa-458d-888e-d72ec2f9347a.png"></code>
-<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/22a9561a-1d28-4b8b-90c2-e7314adc3e09.png"></code>
-<code><img height="50" src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/523da9cc-1572-43b0-be6a-5af1210fa45c.png"></code>
 </p>
 
 
