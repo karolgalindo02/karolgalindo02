@@ -1,7 +1,7 @@
 ## Hi there, I'm Karol 👋
 <img align="right" alt="penguin-code.gif" width=180 src="https://github.com/karolgalindo02/karolgalindo02/assets/122057880/101655db-9971-4def-9f3d-1c9012be07d4.gif">
 
-🐧 I'm a Junior Unity Developer & Frontend Web Developer
+🐧 I'm a Unity Developer & Frontend Web Developer
 
 - 🔭 I’m currently learning about Videogame development with Unity
 - 🎯 I am looking to collaborate on projects with innovative ideas and effective solutions.
